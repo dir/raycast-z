@@ -9,6 +9,7 @@
   <figure>
     <img src="https://github.com/user-attachments/assets/bc6a2b88-4a56-454c-bb21-1f37645642e2" alt="Demo" />
   </figure>
+  <br />
 </div>
 
 ## Requirements
@@ -25,7 +26,7 @@
 
 ## Usage
 
-The z/raycast commands leverage your existing `zoxide` database (_automatically built as you navigate in your shell_) to quickly access directories.
+The raycast-z commands leverage your existing `zoxide` database (_automatically built as you navigate in your shell_) to quickly access directories.
 
 Simply enter a directory name or pattern, and z will find the best match.
 
