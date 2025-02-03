@@ -3,6 +3,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="icons/z.png">
     <img src="icons/z.png" alt="raycast-z" width="64">
   </picture>
+</div>
+
+<div align="center">
   <h1>raycast-z</h1>
   <p>Seamless integration between <a href="https://raycast.com" target="_blank" rel="noopener">Raycast</a> and <a href="https://github.com/ajeetdsouza/zoxide" target="_blank" rel="noopener">zoxide</a>, providing quick directory navigation through script commands. Uses and contributes to your existing zoxide database.</p>
   <figure>
