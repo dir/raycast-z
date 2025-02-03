@@ -1,9 +1,9 @@
-<div align="start">
+<div style="display: flex; align-items: center; gap: 8px;">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="icons/z.png">
-      <img src="icons/z.png" alt="z" height="20">
+      <img src="icons/z.png" alt="z" height="40">
    </picture>
-   <strong>raycast-z</strong>
+   <strong style="font-size: 28px;">raycast-z</strong>
 </div>
 
 ---
