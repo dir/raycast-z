@@ -4,7 +4,7 @@
     <img src="icons/z.png" alt="raycast-z" width="84">
   </picture>
   <h1>raycast-z</h1>
-  <p>Seamless integration between <a href="https://raycast.com" target="_blank" rel="noopener">Raycast</a> and <a href="https://github.com/ajeetdsouza/zoxide" target="_blank" rel="noopener">zoxide</a>, providing quick directory navigation through script commands. Uses and contributes to your existing zoxide database.</p>
+  <p>Seamless <a href="https://github.com/ajeetdsouza/zoxide" target="_blank" rel="noopener">zoxide</a> integration for <a href="https://raycast.com" target="_blank" rel="noopener">Raycast</a>. Ergonomic script commands for navigating and managing your directories.</p>
   <br />
   <figure>
     <img src="https://github.com/user-attachments/assets/bc6a2b88-4a56-454c-bb21-1f37645642e2" alt="Demo" />
