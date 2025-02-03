@@ -1,16 +1,14 @@
-<div style="display: flex; align-items: center; gap: 8px;">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/z.png">
-      <img src="icons/z.png" alt="z" height="40">
-   </picture>
-   <strong style="font-size: 28px;">raycast-z</strong>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="icons/z.png">
+    <img src="icons/z.png" alt="raycast-z" height="64">
+  </picture>
+  <h1>raycast-z</h1>
+  <p>Seamless integration between <a href="https://raycast.com" target="_blank" rel="noopener">Raycast</a> and <a href="https://github.com/ajeetdsouza/zoxide" target="_blank" rel="noopener">zoxide</a>, providing quick directory navigation through script commands. Uses and contributes to your existing zoxide database.</p>
+  <figure>
+    <img src="https://github.com/user-attachments/assets/bc6a2b88-4a56-454c-bb21-1f37645642e2" alt="Demo" />
+  </figure>
 </div>
-
----
-
-Seamless integration between [Raycast](https://raycast.com) and [zoxide](https://github.com/ajeetdsouza/zoxide), providing quick directory navigation through script commands. Uses and contributes to your existing zoxide database.
-
-![Demo](https://github.com/user-attachments/assets/bc6a2b88-4a56-454c-bb21-1f37645642e2)
 
 ## Requirements
 
